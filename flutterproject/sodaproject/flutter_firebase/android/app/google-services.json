@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "127342166234",
+    "firebase_url": "https://sodaproject-20527-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sodaproject-20527",
+    "storage_bucket": "sodaproject-20527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127342166234:android:0da6b54873ea3a614565e3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127342166234-jt4ih6d7qff39lvj1j7vcdiogs5p7924.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_v7G9QMsyEduYBl_MkJsKNcn1SYuw0PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127342166234-jt4ih6d7qff39lvj1j7vcdiogs5p7924.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127342166234-2sbje75emebrmi9nt4hij8d2ia7pjq8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dev0208"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127342166234:android:ff4b281e20a78f4c4565e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127342166234-jt4ih6d7qff39lvj1j7vcdiogs5p7924.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_v7G9QMsyEduYBl_MkJsKNcn1SYuw0PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127342166234-jt4ih6d7qff39lvj1j7vcdiogs5p7924.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127342166234-2sbje75emebrmi9nt4hij8d2ia7pjq8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dev0208"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
